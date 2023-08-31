@@ -7,6 +7,7 @@
 <li>Write a Java program to swap two numbers without using the third variable</li>
 <li>Write a Java program to print the area of a circle</li>
 <li>Write a Java program to print the ASCII value of a given character.</li>
+<li>Java Program to covert Dollars into Rupees</li>
 
 
 
